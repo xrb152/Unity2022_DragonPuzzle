@@ -1,0 +1,20 @@
+
+RR_trumpet.png
+size: 973,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 519, 346
+  orig: 519, 346
+  offset: 0, 0
+  index: -1
+r
+  rotate: true
+  xy: 523, 5
+  size: 343, 448
+  orig: 343, 448
+  offset: 0, 0
+  index: -1

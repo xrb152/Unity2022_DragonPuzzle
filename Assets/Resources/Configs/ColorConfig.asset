@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9543f578f34ed46758cefb38e037004c, type: 3}
+  m_Name: ColorConfig
+  m_EditorClassIdentifier: 
+  colorList:
+  - ID: 1
+    colorType: 0
+    material: {fileID: 2100000, guid: 82ffc29f0d6accd458e8efacafec93a1, type: 2}
+    colorTint: {r: 0.8867924, g: 0.21333212, b: 0.21333212, a: 1}
+    dragonBodySprite: {fileID: 21300000, guid: bebee681c2ac94d518d83c3d1df24672, type: 3}
+    dragonBodySpriteVariations: []
+    scoreValue: 0
+    isSpecial: 0
+    arrowSprite: {fileID: 21300000, guid: a8493d35311974d00b0c3984034c29ce, type: 3}
+    DragonPartExplosion: {fileID: 1848272383297213, guid: 1d00093c2d66a834b9fdb5d2ad415e72, type: 3}
+  - ID: 2
+    colorType: 1
+    material: {fileID: 2100000, guid: da0c996a1f0a5fe4fbc7deb06b3c2f14, type: 2}
+    colorTint: {r: 0.26415092, g: 0.08597365, b: 0.08597365, a: 1}
+    dragonBodySprite: {fileID: 21300000, guid: 2436aa5dfb66743409fb77c284ab4eb9, type: 3}
+    dragonBodySpriteVariations: []
+    scoreValue: 0
+    isSpecial: 0
+    arrowSprite: {fileID: 21300000, guid: 4a470acb13ea34ca182c39aa0ee682ea, type: 3}
+    DragonPartExplosion: {fileID: 1879530557955018, guid: a2f0533576c555a4fa34d5fb2d87f954, type: 3}
+  - ID: 3
+    colorType: 2
+    material: {fileID: 2100000, guid: 7e0257bf0584ae740b34f6eaeaeedbca, type: 2}
+    colorTint: {r: 0.25757277, g: 0.8018868, b: 0.17777678, a: 1}
+    dragonBodySprite: {fileID: 21300000, guid: 0d4d90d9acf2e4a83b7fd1ffd5127d0b, type: 3}
+    dragonBodySpriteVariations: []
+    scoreValue: 0
+    isSpecial: 0
+    arrowSprite: {fileID: 21300000, guid: 8e3a2226be9d342c4a2d171294c42df8, type: 3}
+    DragonPartExplosion: {fileID: 1105803226038533, guid: f0c1455d9d0cebd44ad40da5712854ac, type: 3}
+  - ID: 4
+    colorType: 3
+    material: {fileID: 2100000, guid: 3b0c5e32f1657dd4f9e9aae4a9158c5d, type: 2}
+    colorTint: {r: 0.13007298, g: 0.44831356, b: 0.745283, a: 1}
+    dragonBodySprite: {fileID: 21300000, guid: 2dd162db9aa104f44bb442e688e47c51, type: 3}
+    dragonBodySpriteVariations: []
+    scoreValue: 0
+    isSpecial: 0
+    arrowSprite: {fileID: 21300000, guid: d615bbb0a19cd43049ab692b6844875c, type: 3}
+    DragonPartExplosion: {fileID: 1184843299711010, guid: 51811afa30a08c24f9b322810ad2462b, type: 3}
+  - ID: 5
+    colorType: 4
+    material: {fileID: 2100000, guid: 94dc0dcfbdb4dd645ae370a3bee11471, type: 2}
+    colorTint: {r: 0.7830189, g: 0.6374993, b: 0.15881987, a: 1}
+    dragonBodySprite: {fileID: 21300000, guid: dc61f02255eb24cefa640d862a3eac21, type: 3}
+    dragonBodySpriteVariations: []
+    scoreValue: 0
+    isSpecial: 0
+    arrowSprite: {fileID: 21300000, guid: 7f7a50ecbfbb64d358aa272f48a95780, type: 3}
+    DragonPartExplosion: {fileID: 1045344003151449, guid: fd02488f8556efa46901bd17b0eaeb1a, type: 3}
+  - ID: 6
+    colorType: 5
+    material: {fileID: 2100000, guid: 229de74a823390349b49e4c18cc704d5, type: 2}
+    colorTint: {r: 0.4433962, g: 0.02300641, b: 0.407289, a: 1}
+    dragonBodySprite: {fileID: 21300000, guid: ee887612d918f42068845c3ca8897752, type: 3}
+    dragonBodySpriteVariations: []
+    scoreValue: 0
+    isSpecial: 0
+    arrowSprite: {fileID: 21300000, guid: 6db3aa79f759648a18d8ddefb707e612, type: 3}
+    DragonPartExplosion: {fileID: 1435975502603316, guid: 7c930914274150145800e22f2a6a11ed, type: 3}
+  - ID: 7
+    colorType: 6
+    material: {fileID: 2100000, guid: 1c6c58405c9224647b3a151822e22ada, type: 2}
+    colorTint: {r: 0.8113208, g: 0.21813813, b: 0.5994395, a: 1}
+    dragonBodySprite: {fileID: 21300000, guid: 8ea18e701e1294fdebafc079c56d4783, type: 3}
+    dragonBodySpriteVariations: []
+    scoreValue: 0
+    isSpecial: 0
+    arrowSprite: {fileID: 21300000, guid: e631e2d1d2141417396941736f592881, type: 3}
+    DragonPartExplosion: {fileID: 1766880468041957, guid: ba72ae770b738a34094da02df80c785e, type: 3}
+  - ID: 8
+    colorType: 7
+    material: {fileID: 2100000, guid: 6573bec3b736efb45a8bff27e2563fcd, type: 2}
+    colorTint: {r: 0.24007656, g: 0.38163754, b: 0.7830189, a: 1}
+    dragonBodySprite: {fileID: 21300000, guid: 2473433a1a17a442c9aa4d3b56583069, type: 3}
+    dragonBodySpriteVariations: []
+    scoreValue: 0
+    isSpecial: 0
+    arrowSprite: {fileID: 21300000, guid: e443202ad32c840a6a3dadde27b3c0da, type: 3}
+    DragonPartExplosion: {fileID: 1829674034589362, guid: f0a98716eb0de7548924533b8196e555, type: 3}
+  defaultColor:
+    ID: 
+    colorType: 0
+    material: {fileID: 0}
+    colorTint: {r: 1, g: 1, b: 1, a: 1}
+    dragonBodySprite: {fileID: 0}
+    dragonBodySpriteVariations: []
+    scoreValue: 10
+    isSpecial: 0
+    arrowSprite: {fileID: 0}
+    DragonPartExplosion: {fileID: 0}
